@@ -1,0 +1,57 @@
+[
+  {
+    "img": "/assets/img/team/ferid.jpg",  
+    "title": "Ferid Kamel",
+    "desc": "CEO & Founder"
+  },
+  {
+    "img": "/assets/img/team/chayma.PNG",  
+    "title": "Chayma Jeballi",
+    "desc": "Chef Technology Officer"
+  },
+  {
+    "img": "/assets/img/team/sondes.jpeg",  
+    "title": "Sondes Ahmed",
+    "desc": "Team Leader"
+  },
+  {
+    "img": "/assets/img/team/maryem.jpeg",  
+    "title": "Maryem Afli",
+    "desc": "Technical Sales Representative"
+  },
+  {
+    "img": "/assets/img/team/mayssa.jpg",  
+    "title": "Mayssa Dhahri",
+    "desc": "Full stack developer"
+  },
+  {
+    "img": "/assets/img/team/hela.jpeg",  
+    "title": "Hela Elgares",
+    "desc": "Full stack developer"
+  },
+  {
+    "img": "/assets/img/team/omar.jpeg",  
+    "title": "Omar Troudi",
+    "desc": "Mobile developer"
+  },
+  {
+    "img": "/assets/img/team/sarra.jpeg",  
+    "title": "Sarra Khadhraoui",
+    "desc": "Full stack developer"
+  },
+  {
+    "img": "/assets/img/team/imen.jpg",  
+    "title": "Imen Selmi",
+    "desc": "UI/UX and graphic designer"
+  },
+  {
+    "img": "/assets/img/team/sedki.jpeg",  
+    "title": "Sedki Limam",
+    "desc": "AI developer"
+  },
+  {
+    "img": "/assets/img/team/amine.png",  
+    "title": "Mohamed Amine Azouzi",
+    "desc": "AI developer"
+  }
+]
