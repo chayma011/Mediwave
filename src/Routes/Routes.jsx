@@ -149,7 +149,7 @@ export const router = createBrowserRouter([
     //   ],
     // },  
     {
-      path: 'home5',
+      path: '/',
       element:<Layout5></Layout5>,
       children: [
         {
